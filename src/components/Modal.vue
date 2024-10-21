@@ -55,7 +55,6 @@ export default {
     text-decoration: none;
     margin: .625rem;
 }
-
 .modal.sale {
     background: crimson;
     color: white;  
